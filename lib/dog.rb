@@ -21,11 +21,5 @@ class Dog
   
   
   
-  
-  
-  
-  
-  
-  
 end
 
